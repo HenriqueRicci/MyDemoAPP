@@ -37,3 +37,7 @@ build/
 
 ### Mac OS ###
 .DS_Store
+
+### Mais alguns arquivos ###
+.idea/
+src/test/resources/config.properties
